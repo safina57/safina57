@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **med.amine.haouas@gmail.com**
 
-- 📄 My Resume: [Download PDF](https://drive.google.com/file/d/1NC9NiyK_7V_87GbereZBn-zCXu3a8qX8/view?usp=drive_link)
+- 📄 My Resume: [Download PDF](https://drive.google.com/file/d/1-8sGVJOrInAuaU7PYJxHP1YjEeMpBZwE/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
