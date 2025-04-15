@@ -3,7 +3,7 @@
 
 - 🔭 I'm Continuously developing my skills, gaining proficiency in Backend Development. Exploring various areas of machine learning to build foundational knowledge. Developing problem-solving abilities alongside improving communication skills for effective collaboration **.**
 
-- 📫 How to reach me **mohamedamin.haouas@insat.ucar.tn / med.amine.haouas@gmail.com**
+- 📫 How to reach me **mohamedamin.haouas@insat.ucar.tn**
 
 - 📄 My Resume: [Download PDF](https://drive.google.com/file/d/1Fzp07Y0ly_lxrbiYJfYZcN4fq0oUT0Ic/view?usp=sharing)
 
